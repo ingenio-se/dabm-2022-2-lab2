@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+'''
+DAVID GUERRA
+DABM -2022-2
+'''
+
+
+
 from classes.menu import *
 from classes.equipo import *
 from classes.prestamo import *
